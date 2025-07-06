@@ -19,37 +19,8 @@
 ###############################################################
 
 
-#sort built in function only works with lists. It basically sorts the list in place method..
-
-# nums = [1,2,5,33,55,22,4,-9,-3,-5,-2]
-
-# nums.sort()
-
-# print(nums)
-
-# nums = [1,2,5,33,55,22,4,-9,-3,-5,-2]
-
-# nums.sort(reverse=True)
-
-# print(nums)
-
-#SELECTION SORT__________________________
-
-# nums = [7,5,4,2]
-
-# for i in range(len(nums)):
-#     min_index = i
-
-#     for j in range(i+1, len(nums)):
-#         if nums[j] < nums[min_index]:
-#             min_index = j
-    
-#     temp = nums[min_index]
-#     nums[min_index] = nums[i]
-#     nums[i] = temp
 
 
-# print(nums)
 
 
 # def selection_sort(nums):
