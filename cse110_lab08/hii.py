@@ -8,11 +8,15 @@
 
 
 
-i = 0
-while i <= 10:
-    print(i)
-    i+=1
+# i = 0
+# while i <= 10:
+#     print(i)
+#     i+=1
 
 
 
 
+nums = [7,3,8,0,2,4,2,1]
+
+sorted_nums = sorted(nums)
+print(sorted_nums)
