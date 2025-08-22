@@ -24,6 +24,15 @@
 
 
 
-name = "siam"
+# name = "siam"
 
-print(name)
+# print(name)
+
+
+
+def add(a,b):
+    return a+b
+
+
+sum = add(10,20)
+print(sum)
