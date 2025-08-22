@@ -16,7 +16,14 @@
 
 
 
-nums = [7,3,8,0,2,4,2,1]
+# nums = [7,3,8,0,2,4,2,1]
 
-sorted_nums = sorted(nums)
-print(sorted_nums)
+# sorted_nums = sorted(nums)
+# print(sorted_nums)
+
+
+
+
+name = "siam"
+
+print(name)
