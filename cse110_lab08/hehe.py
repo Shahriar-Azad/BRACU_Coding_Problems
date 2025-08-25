@@ -27,12 +27,18 @@
 # for fruit in fruits:
 #     print("I like", fruit)
 
-student = {
-    "name": "Shahriar",
-    "age": 22,
-    "major": "CSE"
-}
+# student = {
+#     "name": "Shahriar",
+#     "age": 22,
+#     "major": "CSE"
+# }
 
-print("Name:", student["name"])
-print("Age:", student["age"])
-print("Major:", student["major"])
+# print("Name:", student["name"])
+# print("Age:", student["age"])
+# print("Major:", student["major"])
+
+
+count = 1
+while count <= 5:
+    print("Count:", count)
+    count += 1
