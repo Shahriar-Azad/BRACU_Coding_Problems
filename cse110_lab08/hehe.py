@@ -17,7 +17,12 @@
 
 
 
-def add(a, b):
-    return a + b
+# def add(a, b):
+#     return a + b
 
-print("Sum is:", add(5, 3))
+# print("Sum is:", add(5, 3))
+
+fruits = ["apple", "banana", "cherry"]
+
+for fruit in fruits:
+    print("I like", fruit)
