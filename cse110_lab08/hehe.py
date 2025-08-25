@@ -22,7 +22,17 @@
 
 # print("Sum is:", add(5, 3))
 
-fruits = ["apple", "banana", "cherry"]
+# fruits = ["apple", "banana", "cherry"]
 
-for fruit in fruits:
-    print("I like", fruit)
+# for fruit in fruits:
+#     print("I like", fruit)
+
+student = {
+    "name": "Shahriar",
+    "age": 22,
+    "major": "CSE"
+}
+
+print("Name:", student["name"])
+print("Age:", student["age"])
+print("Major:", student["major"])
