@@ -12,5 +12,12 @@
 #     i += 1
 
 
-for i in range(1, 6):
-    print("Number:", i)
+# for i in range(1, 6):
+#     print("Number:", i)
+
+
+
+def add(a, b):
+    return a + b
+
+print("Sum is:", add(5, 3))
