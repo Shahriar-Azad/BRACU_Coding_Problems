@@ -38,7 +38,7 @@
 # print("Major:", student["major"])
 
 
-count = 1
-while count <= 5:
-    print("Count:", count)
-    count += 1
+# count = 1
+# while count <= 5:
+#     print("Count:", count)
+#     count += 1
