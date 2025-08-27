@@ -40,8 +40,14 @@
 # print("Sum is:", mul(5, 3))
 
 
-def divide(a, b):
-    return a // b
+# def divide(a, b):
+#     return a // b
 
-print("Sum is:", divide(5, 3))
+# print("Sum is:", divide(5, 3))
 
+
+def is_obyda_hot(message):
+    print(message)
+
+
+is_obyda_hot("Hae Obyda hot")
