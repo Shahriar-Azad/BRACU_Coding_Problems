@@ -21,11 +21,16 @@
 
 
 
-def add(a, b):
-    return a + b
+# def add(a, b):
+#     return a + b
 
-print("Sum is:", add(5, 3))
+# print("Sum is:", add(5, 3))
 
 
+
+def sub(a, b):
+    return a - b
+
+print("Sum is:", sub(5, 3))
 
 
