@@ -34,8 +34,14 @@
 # print("Sum is:", sub(5, 3))
 
 
-def mul(a, b):
-    return a * b
+# def mul(a, b):
+#     return a * b
 
-print("Sum is:", mul(5, 3))
+# print("Sum is:", mul(5, 3))
+
+
+def divide(a, b):
+    return a // b
+
+print("Sum is:", divide(5, 3))
 
