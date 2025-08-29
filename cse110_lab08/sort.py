@@ -65,12 +65,14 @@
 # print("Sum is:", divide(5, 3))
 
 
-def is_obyda_hot(message):
-    print(message)
+# def is_obyda_hot(message):
+#     print(message)
 
 
-is_obyda_hot("Hae Obyda hot")
+# is_obyda_hot("Hae Obyda hot")
 
 
+def yo(hello):
+    return hello
 
 
