@@ -72,7 +72,7 @@
 # is_obyda_hot("Hae Obyda hot")
 
 
-def yo(hello):
-    return hello
+# def yo(hello):
+#     return hello
 
 
